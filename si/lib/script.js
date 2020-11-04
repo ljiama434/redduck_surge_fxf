@@ -1,3 +1,4 @@
+/*
 $(function(){
    $("#playVideo").click(function(){
 	var area=['50%','480px']
@@ -24,7 +25,7 @@ window.layer.open({
     });
     
 });
-
+*/
 //往上的按鈕
 $(function(){
 			var btn_top = $('.btn_top');
